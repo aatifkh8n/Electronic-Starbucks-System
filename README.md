@@ -34,11 +34,11 @@ Purchase history:
 
 Funds Transfer:
 
-<img src="README_images/Funds Transfer.png" alt="Funds Transfer">
+<img src="README_images/Funds transfer.png" alt="Funds Transfer">
 
 Transfer history:
 
-<img src="README_images/Funds transfer.png" alt="Transfer history">
+<img src="README_images/Funds transfer history.png" alt="Transfer history">
 
 Invalid purchase amount:
 
@@ -64,7 +64,27 @@ Forbidden request:
 
 3) Customer
 
-# Tools
+## Installation
+
+1) Download <a href="https://www.python.org/downloads/">python</a> and esure it's added to the environment path variable.
+
+2) Clone the repository.
+
+3) cd Electronic-Starbucks-System/
+
+4) $ ```python launcher.py```
+
+## Requirements
+
+- Python
+
+## Tested On
+
+- Windows 11 pro
+
+- Python 3.10.10
+
+## Tools
 
 - Programming Language: **Python**
 
@@ -73,3 +93,5 @@ Forbidden request:
 - UML: **Umlet**
 
 - IDE: **Visual Studio (VS) Code**
+
+- VCS: **Git**
